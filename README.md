@@ -28,7 +28,42 @@
         <p><strong>Operating System:</strong> Windows | Linux | Ubuntu | MacOS | Android</p>
         <p><strong>Certifications:</strong> Google Certified Data Analytics | Data Structures and Algorithms</p>
     </section>
-    <!-- Add sections for professional experience and projects here -->
+    <section class="experience">
+        <h2>PROFESSIONAL EXPERIENCE</h2>
+        <p><strong>SSIT SOLUTIONS</strong></p>
+        <p>July 2020 - July 2022</p>
+        <p><em>Full Stack Developer</em></p>
+        <ul>
+            <li>Implemented Scrum and Agile techniques for efficient development.</li>
+            <li>Designed user interfaces with ASP.Net MVC and C#.</li>
+            <li>Developed secure EDI and APIs using WCF.</li>
+            <li>Programmed MS SQL Server for database management.</li>
+            <li>Utilized Crystal Reports for record management and reports.</li>
+        </ul>
+        <p><strong>Vehicle Management System</strong></p>
+        <ul>
+            <li>Designed a user-friendly web application for efficient trip management.</li>
+            <li>Executed a secure login system with a focus on data protection.</li>
+        </ul>
+    </section>
+    <section class="projects">
+        <h2>PROJECTS</h2>
+        <p><strong>Continuous Integration and Deployment Pipeline | Stevens Institute of Technology</strong></p>
+        <p>January 2022 - May 2023</p>
+        <ul>
+            <li>Established an end-to-end automation pipeline encompassing code compilation, testing, artifact management, and deployment.</li>
+            <li>Integrated rigorous security checks and automated testing within the pipeline.</li>
+            <li>Utilized Docker and Kubernetes for scalable and efficient application deployments.</li>
+            <li>Identified and mitigated pipeline bottlenecks, leading to reduced deployment times.</li>
+        </ul>
+        <p><strong>Housing Price Prediction | Stevens Institute of Technology</strong></p>
+        <p>January 2022 - May 2023</p>
+        <ul>
+            <li>Developed a model using Scikit-learn and Pandas libraries to forecast California's median home values.</li>
+            <li>Conducted exploratory data analysis and programmed gradient boosting regression techniques to optimize model performance.</li>
+            <li>Achieved an accuracy of 92% and a Mean Squared Error reduction of 20%.</li>
+        </ul>
+    </section>
     <footer>
         <p>&copy; 2023 Sai Praveen Kudapa</p>
     </footer>
