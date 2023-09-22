@@ -19,6 +19,11 @@ header {
     padding: 20px 0;
 }
 
+#name {
+    font-size: 2rem; /* Adjust the font size as needed */
+    margin: 20px 0; /* Add margin to vertically center the name */
+}
+
 header h1 {
     font-size: 2.5rem;
 }
