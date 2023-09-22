@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Sai Praveen Kudapa</h1>
+        <h1 id="name">Sai Praveen Kudapa</h1>
         <p>Email: saipraveenkudapa@gmail.com | Phone: +1(732)585-8362 | Location: Jersey City, New Jersey | LinkedIn: <a href="https://www.linkedin.com/in/sai-praveen-kudapa-787257186">LinkedIn Profile</a></p>
     </header>
     <section class="education">
