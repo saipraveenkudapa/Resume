@@ -7,12 +7,11 @@
 <body>
     <header>
         <h1>Sai Praveen Kudapa</h1>
-        <p>Email: saipraveenkudapa@gmail.com | Phone: +1(732)585-8362</p>
-        <p>Location: Jersey City, New Jersey | LinkedIn: <a href="https://www.linkedin.com/in/sai-praveen-kudapa-787257186">LinkedIn Profile</a></p>
+        <p>Email: saipraveenkudapa@gmail.com | Phone: +1(732)585-8362 | Location: Jersey City, New Jersey | LinkedIn: <a href="https://www.linkedin.com/in/sai-praveen-kudapa-787257186">LinkedIn Profile</a></p>
     </header>
     <section class="education">
         <h2>EDUCATION</h2>
-        <p><strong>Stevens Institute of Technology</strong>, Hoboken, New Jersey, USA Expected January 2024</p>
+        <p><strong>Stevens Institute of Technology</strong>, Hoboken, New Jersey, USA | Expected January 2024</p>
         <p>Master of Science: Computer Science</p>
         <p><strong>Amrita Vishwa Vidyapeetham</strong>, Bangalore, Karnataka, India July 2020</p>
         <p>Bachelor of Technology: Computer Science and Engineering</p>
@@ -26,7 +25,7 @@
     </section>
     <section class="experience">
         <h2>PROFESSIONAL EXPERIENCE</h2>
-        <p><strong>SSIT SOLUTIONS</strong> July 2020 - July 2022 </p>
+        <p><strong>SSIT SOLUTIONS</strong> | July 2020 - July 2022 </p>
         <p><em>Full Stack Developer</em></p>
         <ul>
             <li> Implemented Scrum and Agile techniques to make an efficient development process while attending client meetings and creating a tailored ERP model.</li>
@@ -43,14 +42,14 @@
     </section>
     <section class="projects">
         <h2>PROJECTS</h2>
-        <p><strong>Continuous Integration and Deployment Pipeline | Stevens Institute of Technology</strong> January 2022 - May 2023 </p>
+        <p><strong>Continuous Integration and Deployment Pipeline | Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
         <ul>
             <li> Established an end-to-end automation pipeline encompassing code compilation, testing, artifact management, and deployment, reducing manual intervention and ensuring consistency.</li>
             <li> Integrated rigorous security checks and automated testing within the pipeline, resulting in improved code quality, reduced vulnerabilities, and enhanced application security.</li>
             <li> Utilized Docker for containerization and Kubernetes for orchestration to enable scalable, efficient, and consistent application deployments across multiple environments.</li>
             <li> Identified and mitigated pipeline bottlenecks, leaded to a significant reduction in deployment times and improved overall system performance.</li>
         </ul>
-        <p><strong>Housing Price Prediction | Stevens Institute of Technology</strong> January 2022 - May 2023 </p>
+        <p><strong>Housing Price Prediction | Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
         <ul>
             <li> Developed a model utilizing Scikit-learn and Pandas libraries to forecast California's median home values, achieving an accuracy of 92% and showcasing technical expertise in feature engineering, data preparation, and model selection.</li>
             <li> Conducted exploratory data analysis using Python programming and data analytical techniques on complex data sets, resulting in valuable insights, and enhancing the feature engineering process.</li>
