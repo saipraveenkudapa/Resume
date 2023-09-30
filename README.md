@@ -42,19 +42,18 @@
     </section>
     <section class="projects">
         <h2>PROJECTS</h2>
-        <p><strong>Continuous Integration and Deployment Pipeline | Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
+        <p><strong>E-Wallet Project| Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
         <ul>
-            <li> Established an end-to-end automation pipeline encompassing code compilation, testing, artifact management, and deployment, reducing manual intervention and ensuring consistency.</li>
-            <li> Integrated rigorous security checks and automated testing within the pipeline, resulting in improved code quality, reduced vulnerabilities, and enhanced application security.</li>
-            <li> Utilized Docker for containerization and Kubernetes for orchestration to enable scalable, efficient, and consistent application deployments across multiple environments.</li>
-            <li> Identified and mitigated pipeline bottlenecks, leaded to a significant reduction in deployment times and improved overall system performance.</li>
+            <li> Created a secure e-wallet application using Linux, Vagrant, and Docker, to emphasize best practices in application security.</li>
+            <li> Developed robust backend logic for the e-wallet application using Python, implementing secure transaction processing and user authentication features.</li>
+            <li> Demonstrated proficiency in containerization, packaging the application into a Docker container, and deploying it on a Kubernetes cluster using Ansible.</li>
+            <li> Leveraged Terraform to automate the provisioning of the CloudFormation stack on AWS, gaining hands-on experience in automated infrastructure setup.</li>
+            <li> Implemented automated build and deployment pipelines with Jenkins, ensuring consistency and efficiency.</li>
+            <li> Utilized Git for version control, ensuring collaborative development and efficient management of project source code.</li>
+            <li> Managed project dependencies and build processes using Maven, ensuring streamlined development workflows and effective project organization.</li>
+            <li> Gained practical experience in full-stack application development, focusing on backend logic, containerization, orchestration, and cloud automation.</li>
         </ul>
-        <p><strong>Housing Price Prediction | Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
-        <ul>
-            <li> Developed a model utilizing Scikit-learn and Pandas libraries to forecast California's median home values, achieving an accuracy of 92% and showcasing technical expertise in feature engineering, data preparation, and model selection.</li>
-            <li> Conducted exploratory data analysis using Python programming and data analytical techniques on complex data sets, resulting in valuable insights, and enhancing the feature engineering process.</li>
-            <li> Programmed gradient boosting regression technique to optimize the performance of the model, achieving a Mean Squared Error reduction of 20%, enabling valuable recommendations for property investors to make informed decisions and investments.</li>
-        </ul>
+       
     </section>
     <footer>
         <p>&copy; 2023 Sai Praveen Kudapa</p>
