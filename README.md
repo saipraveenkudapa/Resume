@@ -42,7 +42,7 @@
     </section>
     <section class="projects">
         <h2>PROJECTS</h2>
-        <p><strong>E-Wallet Project| Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
+        <p><strong>E-Wallet Project | Stevens Institute of Technology</strong> | January 2022 - May 2023 </p>
         <ul>
             <li> Created a secure e-wallet application using Linux, Vagrant, and Docker, to emphasize best practices in application security.</li>
             <li> Developed robust backend logic for the e-wallet application using Python, implementing secure transaction processing and user authentication features.</li>
