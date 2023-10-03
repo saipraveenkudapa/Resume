@@ -53,7 +53,7 @@
             <li> Managed project dependencies and build processes using Maven, ensuring streamlined development workflows and effective project organization.</li>
             <li> Gained practical experience in full-stack application development, focusing on backend logic, containerization, orchestration, and cloud automation.</li>
         </ul>
-       
+    </section>
     
 </body>
 </html>
