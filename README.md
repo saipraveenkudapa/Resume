@@ -54,9 +54,6 @@
             <li> Gained practical experience in full-stack application development, focusing on backend logic, containerization, orchestration, and cloud automation.</li>
         </ul>
        
-    </section>
-    <footer>
-        <p>&copy; 2023 Sai Praveen Kudapa</p>
-    </footer>
+    
 </body>
 </html>
